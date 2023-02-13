@@ -7,6 +7,7 @@ import threading
 class ChatbotWindow(QMainWindow):
     def __init__(self):
         super().__init__()
+        self.setWindowTitle("My ChatGPT")
 
         self.chatbot = Chatbot()
 
