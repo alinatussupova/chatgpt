@@ -2,7 +2,7 @@
 
 I build a chatbot GPT, using openai api.
 
-Stack, I've used:
+Technologies used:
 - PyQT6 (for building GUI)
 - OpenAI (for building chatbot)
 
